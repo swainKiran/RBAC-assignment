@@ -25,7 +25,7 @@ Setup and Installation
 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com//rbac-project.git
+git clone https://github.com/swainKiran/rbac-project.git
 cd rbac-project
 2. Set Up a Virtual Environment
 bash
